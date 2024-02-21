@@ -1,0 +1,3 @@
+<img src="switchOn.png" alt="" id="switchOn">
+ <img src="lightOn.png" alt=""id="lightOn">
+ 3 types are var, let, and const
